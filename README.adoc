@@ -1,0 +1,6 @@
+System Integration Work
+This repository contains all my system integration work, including scripts, configurations, and documentation related to various system integration projects.
+
+Cloning the Repository
+git clone https://github.com/FrederikTC/system-integration.git
+
