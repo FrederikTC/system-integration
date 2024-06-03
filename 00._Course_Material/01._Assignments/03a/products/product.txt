@@ -1,0 +1,4 @@
+Product Name: Widget A
+SKU: WDG-A
+Price: 19.99
+Quantity: 100

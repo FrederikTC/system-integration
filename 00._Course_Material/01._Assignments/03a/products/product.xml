@@ -1,0 +1,6 @@
+<product>
+    <name>Widget A</name>
+    <sku>WDG-A</sku>
+    <price>19.99</price>
+    <quantity>100</quantity>
+</product>

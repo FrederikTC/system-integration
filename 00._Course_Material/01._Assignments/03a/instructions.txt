@@ -1,0 +1,29 @@
+Communication
+Endpoints on Server A:
+
+http://localhost:3000/info.text
+http://localhost:3000/info.xml
+http://localhost:3000/info.yaml
+http://localhost:3000/info.json
+http://localhost:3000/info.csv
+Endpoints on Server B:
+
+http://localhost:5000/info.text
+http://localhost:5000/info.xml
+http://localhost:5000/info.yaml
+http://localhost:5000/info.json
+http://localhost:5000/info.csv
+Cross-Server Communication:
+
+Server A fetching from Server B:
+http://localhost:3000/fetch_from_server_b/text
+http://localhost:3000/fetch_from_server_b/xml
+http://localhost:3000/fetch_from_server_b/yaml
+http://localhost:3000/fetch_from_server_b/json
+http://localhost:3000/fetch_from_server_b/csv
+Server B fetching from Server A:
+http://localhost:5000/fetch_from_server_a/text
+http://localhost:5000/fetch_from_server_a/xml
+http://localhost:5000/fetch_from_server_a/yaml
+http://localhost:5000/fetch_from_server_a/json
+http://localhost:5000/fetch_from_server_a/csv

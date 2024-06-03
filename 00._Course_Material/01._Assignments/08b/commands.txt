@@ -1,0 +1,5 @@
+psql -h localhost -U myuser -d "new_systemintegration-db"
+
+python3 migrate_data.py
+
+SELECT * FROM users;

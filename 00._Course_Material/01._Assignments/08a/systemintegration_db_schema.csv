@@ -1,0 +1,9 @@
+Table,Column,Type,Nullable,Default
+orders,id,INTEGER,False,
+orders,user_id,INTEGER,True,
+orders,total,"DECIMAL(10, 2)",True,
+orders,created_at,TIMESTAMP,True,CURRENT_TIMESTAMP
+users,id,INTEGER,False,
+users,username,VARCHAR(50),False,
+users,email,VARCHAR(100),False,
+users,created_at,TIMESTAMP,True,CURRENT_TIMESTAMP
